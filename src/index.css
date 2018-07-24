@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.Destination {
+    border  : 1px solid blue;
+}
+
+.Line {
+  border : 1px solid green ;
+}
+
+.Direction {
+  border : 1px solid red;
+}
+
+.WaitingTime {
+  border : 1px solid purple;
+}
+
+.TrainData {
+  display : flex ;
+  flex-flow: column wrap; 
+  border : 1px solid grey;
+  
+}
